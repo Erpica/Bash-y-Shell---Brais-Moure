@@ -33,3 +33,5 @@
 ## Listados avanzados:
 * tree
 * find . -name "*.md"
+
+[[◀️ Lección anterior](./02-FIRST-STEPS.md)] [[Inicio 🔼](../README.md)] [[Siguiente lección ▶️](./05-ADVANCED-COMMANDS.md)]

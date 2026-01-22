@@ -44,4 +44,6 @@ python -h
 man ls
 ~~~
 
-[[◀️ Lección anterior](./00-CONFIGURATION.md)] [[Inicio 🔼](../README.md)] [[Siguiente lección ▶️](./03-FILE-MANAGEMENT.md)]
+[[◀️ Lección anterior](./00-CONFIGURATION.md)] 
+[[Inicio 🔼](../README.md)] 
+[[Siguiente lección ▶️](./03-FILE-MANAGEMENT.md)]

@@ -33,3 +33,9 @@ echo $name -> Erpica
 * Global:
 
 export NOMBRE=
+
+
+[[Lección anterior ▶️](./03-FILE-MANAGEMENT.md)]
+[[Inicio 🔼](../README.md)] 
+[[Siguiente lección ▶️](./07-BASIC-EDITORS.md)]
+

@@ -1,4 +1,4 @@
-# Hola Bash Shell
+# 00 - Hola Bash Shell
 
 ## Curso de Brais Moure para aprender Bash, terminal y scripting para principiantes.
 

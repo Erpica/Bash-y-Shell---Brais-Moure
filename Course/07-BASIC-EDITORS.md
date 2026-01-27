@@ -1,4 +1,4 @@
-# EDITORES BÁSICOS
+# 07 - EDITORES BÁSICOS
 
 ## nano
 * Atajos

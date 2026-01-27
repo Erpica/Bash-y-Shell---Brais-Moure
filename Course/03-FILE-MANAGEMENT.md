@@ -1,4 +1,4 @@
-# Gestión de archivos
+# 03 - Gestión de archivos
 ## Directorios por defecto más típicos:
 * /     Raíz del sistema.
 * /home Directorios personales de los usuarios.

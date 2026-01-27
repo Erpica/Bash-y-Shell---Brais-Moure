@@ -1,4 +1,4 @@
-## Monitorización
+## 11 - Monitorización
 
 * `ps` muestra los procesos asociados a la terminal actual
 * `ps aux` muestra la lista de todos los procesos en ejecución del sistema.
